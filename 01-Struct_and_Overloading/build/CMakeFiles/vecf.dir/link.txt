@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/vecf.dir/main.cpp.o CMakeFiles/vecf.dir/vecF.cpp.o -o vecf 
